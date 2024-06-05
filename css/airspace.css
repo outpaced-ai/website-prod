@@ -367,6 +367,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 107px;
   position: relative;
   background-attachment: fixed;
+  background-position: 10% 0%;
 }
 #global-header:before {
   content: "";
@@ -615,6 +616,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 150px;
   padding-bottom: 107px;
   position: relative;
+  background-position: 10% 0%;
 }
 #slider-contact:before {
   content: "";
