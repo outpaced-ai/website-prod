@@ -67,7 +67,7 @@ a:active {
 header {
   background: #fff;
   padding: 20px 0;
-  position: relative;
+  position: sticky;
 }
 header .navbar {
   margin-bottom: 0px;
