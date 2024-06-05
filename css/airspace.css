@@ -67,6 +67,7 @@ a:active {
 header {
   background: #fff;
   padding: 20px 0;
+  position: relative;
 }
 header .navbar {
   margin-bottom: 0px;
@@ -367,7 +368,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #global-header:before {
   content: "";
-  position: relative;
+  position: absolute;
   left: 0;
   top: 0;
   bottom: 0;
