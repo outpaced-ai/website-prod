@@ -67,7 +67,6 @@ a:active {
 header {
   background: #fff;
   padding: 20px 0;
-  position: sticky;
 }
 header .navbar {
   margin-bottom: 0px;
@@ -79,14 +78,17 @@ header .navbar-brand {
 header .navbar-default {
   background: none;
   border: 0px;
+  position: sticky;
 }
 header .navbar-default .navbar-nav {
   padding-top: 10px;
+  position: sticky;
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
   padding: 10px 26px;
   font-size: 15px;
+  position: sticky;
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
