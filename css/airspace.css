@@ -74,7 +74,6 @@ header .navbar {
 }
 header .navbar-brand {
   padding-top: 5px;
-  background: linear-gradient(to left, #8b86a3, #322e40);
 }
 header .navbar-default {
   background: none;
