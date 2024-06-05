@@ -74,8 +74,6 @@ header .navbar {
 }
 header .navbar-brand {
   padding-top: 5px;
-  padding-bottom: 5px;
-  opacity: 0.6;
 }
 header .navbar-default {
   background: none;
@@ -108,8 +106,6 @@ font header .navbar-default .navbar-nav li a:hover {
   background-position: 10% 0%;
   padding: 200px 0 280px 0;
   position: relative;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-  opacity: 0.8;
 }
 #slider:before {
   content: "";
@@ -368,12 +364,9 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/slider2.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
-  padding-bottom: 150px;
+  padding-bottom: 107px;
   position: relative;
   background-attachment: fixed;
-  background-position: 10% 0%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-  opacity: 0.8;
 }
 #global-header:before {
   content: "";
@@ -622,7 +615,6 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 150px;
   padding-bottom: 107px;
   position: relative;
-  background-position: 10% 0%;
 }
 #slider-contact:before {
   content: "";
